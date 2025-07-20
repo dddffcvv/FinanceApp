@@ -1,0 +1,93 @@
+[
+  {
+    "id": "795e6f39-adb8-4fe3-8aa7-522a812dbee1",
+    "title": "Added Funds",
+    "amount": 600,
+    "category": "income",
+    "date": "2025-07-06"
+  },
+  {
+    "id": "d74ac9c0-ead0-4afb-b9a0-373f72190079",
+    "title": "water",
+    "amount": 300,
+    "category": "utilities",
+    "date": "2025-07-13"
+  },
+  {
+    "id": "9166fd53-cb3d-4f42-9f00-0f88d4100165",
+    "title": "Added Funds",
+    "amount": 300,
+    "category": "income",
+    "date": "2025-07-13"
+  },
+  {
+    "id": "0f014965-7ae4-4961-af0e-108bb147fe24",
+    "title": "juice",
+    "amount": 30,
+    "category": "utilities",
+    "date": "2025-07-14"
+  },
+  {
+    "id": "a28bd9c1-9a31-413b-8e54-d8af0032dabc",
+    "title": "water",
+    "amount": 500,
+    "category": "utilities",
+    "date": "2025-07-15"
+  },
+  {
+    "id": "b1958772-4e3f-4400-a7b5-bc734a2bb6c6",
+    "title": "water",
+    "amount": 65,
+    "category": "utilities",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "2582cbea-3bd9-48c9-85c5-0318174f3870",
+    "title": "Added Funds",
+    "amount": 5000,
+    "category": "income",
+    "date": "2025-07-13"
+  },
+  {
+    "id": "fcb03f51-b461-4c86-a7cf-a556d1b0bc66",
+    "title": "water",
+    "amount": 700,
+    "category": "utilities",
+    "date": "2025-07-31"
+  },
+  {
+    "id": "8c053a0b-86b0-4978-a834-3d9f6249e3b3",
+    "title": "water",
+    "amount": 5,
+    "category": "food",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "349cafdd-7fa7-49c5-b087-4b888bea155e",
+    "title": "water",
+    "amount": 30,
+    "category": "utilities",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "23e280f4-8385-46c3-af29-65d75f804b94",
+    "title": "Added Funds",
+    "amount": 30,
+    "category": "income",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "4532a48e-dc80-40c7-9223-fa36e91ae99d",
+    "title": "Added Funds",
+    "amount": 70,
+    "category": "income",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "9b90fdc0-552c-49af-9700-8daf853db845",
+    "title": "lobotomy",
+    "amount": 4370,
+    "category": "idk",
+    "date": "2025-07-20"
+  }
+]
